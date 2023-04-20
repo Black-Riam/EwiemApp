@@ -50,6 +50,6 @@ window.addEventListener("load", function () {
   if (!window.location.hash) {
     window.location.hash = "#/current-location";
   } else {
-    checkHash();
+    checkHh();
   }
 });
