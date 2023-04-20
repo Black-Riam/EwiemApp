@@ -44,7 +44,7 @@ Open with live server
 
 ## Authors
 
-- [@Nharnah]
+- [@Naa]
 
 ## License
 
