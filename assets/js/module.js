@@ -105,6 +105,6 @@ export const aqiText = {
   5: {
     level: "Very Poor",
     message:
-      "Health warnings of emergency conditions. The entire population is more likely to be affect.",
+      "Health warnings of emergency conditions. The entire population is more likely to be affected.",
   },
 };
