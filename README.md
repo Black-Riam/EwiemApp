@@ -12,9 +12,10 @@ Insert gif or link to demo
 
 ## Features
 
-- Feature 1
-- Feature 2
-- Feature 3
+- Current location
+- Search city or country
+- Today's highlights
+- Forecastss
 
 ## Run Locally
 
@@ -44,7 +45,7 @@ Open with live server
 
 ## Authors
 
-- [@Nharnarh]
+- [@Mariam]
 
 ## License
 
