@@ -1,5 +1,5 @@
 Ewiem
-Ewiem is a local name given to weather in Africa - Ghana. It is made by Blacklov, a final project of ALX program
+Ewiem is a local name given to weather in Africa - Ghana. It is made by Mariam, a final project of ALX program
 
 
 
