@@ -7,7 +7,7 @@ Ewiem is a local name given to weather in Africa - Ghana. It is made by Blacklov
 
 alt = logo
 
-placeholder = Search city...
+placeholder = Search city or country...
 
 <span class="m-icon">search</span>
 

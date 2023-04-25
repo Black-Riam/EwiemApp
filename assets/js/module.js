@@ -1,8 +1,8 @@
 /**
  * @license MIT
  * @fileoverview All module functions
- * @copyright nharnah 2023 All rights reserved
- * @author nharnah
+ * @copyright mariam 2023 All rights reserved
+ * @author mariam
  */
 
 "use strict";
