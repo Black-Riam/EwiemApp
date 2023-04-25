@@ -1,6 +1,9 @@
 # Project Title
 
-A brief description of what this project does and who it's for
+This project was entitiled Ewiem which is an asante local name for weather in Ghana (my home country).
+This project is about weather reading and forecasting for a location over a particular period of time.
+My name is Mariam Frimpomaa Adusei a frontend specialisation student of alx.
+I have a fond interest in forecasting and i saw this period, the best period i could forecast using my knowledge gained from frontend and also play around with API's. Upon researching i saw that forecasting the weather would be a great start for my interest and career.
 
 ## Tech Stack
 
@@ -15,20 +18,20 @@ Insert gif or link to demo
 - Current location
 - Search city or country
 - Today's highlights
-- Forecastss
+- Forecasts
 
 ## Run Locally
 
 Clone the project
 
 ```bash
-  git clone https://link-to-project
-```
+  git clone git@github.com:Blacklov/EwiemApp.git
+  ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd EwiemApp
 ```
 
 Open with VSCode
