@@ -3,7 +3,8 @@
 This project was entitiled Ewiem which is an asante local name for weather in Ghana (my home country).
 This project is about weather reading and forecasting for a location over a particular period of time.
 My name is Mariam Frimpomaa Adusei a frontend specialisation student of alx.
-I have a fond interest in forecasting and i saw this period, the best period i could forecast using my knowledge gained from frontend and also play around with API's. Upon researching i saw that forecasting the weather would be a great start for my interest and career.
+In ghana we rely mostly on the weather conditions for our outdoor activities like weddings, funerals, laundry etc. Here there is a minimal access to dryers or washing machines for our laundry thereby the need for reliable and easy access to weather conditions of the city.and this drived me into making a weather application. 
+I was also able to play around APIs while applying my knowledge earned from frontend.
 
 ## Tech Stack
 
