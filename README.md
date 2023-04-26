@@ -17,7 +17,7 @@ Insert gif or link to demo
 ## Features
 
 - Current location
-- Search city or country
+- Search city 
 - Today's highlights
 - Forecasts
 
